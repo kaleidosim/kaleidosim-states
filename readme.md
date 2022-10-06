@@ -21,7 +21,7 @@ All the states containes in the `smStateStrings` variable are considered in Kale
 
 There are some useful functions implemented like `getStateDescription`, this function will receive any state listed in `state.js` file and it will return an object like this:
 
-```json
+```javascript
 {
     state: ENDSTATE,
     text: "Ended",
